@@ -154,4 +154,4 @@ public class ProxyPublisher extends Recorder implements DependecyDeclarer {
 		}
 	}
 
-}
+
